@@ -10,11 +10,11 @@
 
  and the user a 2D graph that represents the function he gave. 
 
-#SFML
+# SFML
 
 It uses the extension library sfml to create the graph 
 
-#HTTPLIB
+# HTTPLIB
 
 It uses the extension library cpp-httplib to  create and mantain the server 
 
@@ -22,11 +22,11 @@ and add HTML AND CSS ELEMENTS to make this seem more like a website or an applic
 
 ~If the input is wrong the user sees the appropriate message 
 
-#CONTRIBUTORS
+# CONTRIBUTORS
 
 ~The-Mastermind1
 ~Mpoumpoulianos
 
-#THANK YOU 
-#FOR READING
-#THIS
+# THANK YOU 
+# FOR READING
+# THIS
