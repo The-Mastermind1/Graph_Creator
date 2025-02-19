@@ -20,10 +20,10 @@ int main() {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Graph Simulator</title>
-    <!-- Προσθήκη Google Fonts -->
+    <!-- Ξ ΟΞΏΟƒΞΈΞ®ΞΊΞ· Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
     <style>
-        /* Γενικό στυλ για τη σελίδα */
+        /* Ξ“ΞµΞ½ΞΉΞΊΟ ΟƒΟ„Ο…Ξ» Ξ³ΞΉΞ± Ο„Ξ· ΟƒΞµΞ»Ξ―Ξ΄Ξ± */
         body {
             font-family: 'Poppins', sans-serif;
             background-color: #f5f7fa;
@@ -45,7 +45,7 @@ int main() {
             font-weight: 600;
         }
 
-        /* Κουτί Οδηγιών (cloud) */
+        /* ΞΞΏΟ…Ο„Ξ― ΞΞ΄Ξ·Ξ³ΞΉΟΞ½ (cloud) */
         .cloud {
             background-color: #ffffff;
             padding: 25px;
@@ -73,7 +73,7 @@ int main() {
             color: #95a5a6;
         }
 
-        /* Στυλ για την φόρμα */
+        /* Ξ£Ο„Ο…Ξ» Ξ³ΞΉΞ± Ο„Ξ·Ξ½ Ο†ΟΟΞΌΞ± */
         .exisosi {
             display: flex;
             justify-content: center;
@@ -207,7 +207,7 @@ int main() {
 </head>
 <body>
     <h1>Error: No function provided</h1>
-    <!-- Το κουμπί τώρα οδηγεί στη σελίδα της αρχικής φόρμας -->
+    <!-- Ξ¤ΞΏ ΞΊΞΏΟ…ΞΌΟ€Ξ― Ο„ΟΟΞ± ΞΏΞ΄Ξ·Ξ³ΞµΞ― ΟƒΟ„Ξ· ΟƒΞµΞ»Ξ―Ξ΄Ξ± Ο„Ξ·Ο‚ Ξ±ΟΟ‡ΞΉΞΊΞ®Ο‚ Ο†ΟΟΞΌΞ±Ο‚ -->
     <a href="/">Go Back to Graph Simulator</a>
 </body>
 </html>)";
@@ -272,8 +272,8 @@ int main() {
     <h1>Received function: <!-- Add dynamic function_input here --></h1>
     <img src="/static/icons/icon.png" alt="icon">
     <br>
-    <!-- Εδώ η αλλαγή στο href -->
-    <a href="/">Go Back</a> <!-- ΑΛΛΑΓΗ: Το σωστό path -->
+    <!-- Ξ•Ξ΄Ο Ξ· Ξ±Ξ»Ξ»Ξ±Ξ³Ξ® ΟƒΟ„ΞΏ href -->
+    <a href="/">Go Back</a> <!-- Ξ‘Ξ›Ξ›Ξ‘Ξ“Ξ—: Ξ¤ΞΏ ΟƒΟ‰ΟƒΟ„Ο path -->
 </body>
 </html>)";
                 res.set_content(kati,std::strlen(kati), "text/html");
