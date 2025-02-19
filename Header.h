@@ -415,7 +415,7 @@ inline void  parse_graph(const std::string& input, sf::RenderTexture& rendertext
 
     for (std::sregex_iterator it = begin6; it != end; it++) {
         match = *it;
-        if (kati[0] == '+') {
+        if (kati[0] != '+') {
             throw _INVALID_INPUT{ "Invalid Input" };
         }
         kati = match.str();//a^x
