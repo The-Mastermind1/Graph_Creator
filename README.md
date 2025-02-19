@@ -15,7 +15,8 @@ This program creates a website in a local server and takes an input function fol
 <br>
 
 
-~!!!Use the + or - a or none of them!!!<br>
+~🆘Use the + or - a or none of them🆘
+<br>
 
 
 and the user a 2D graph that represents the function he gave. 
