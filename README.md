@@ -11,7 +11,7 @@
  <br>
  ~ +-acos(n*x) (when the +,-,a is not necessary and a belongs to Z*)
  <br>
- ~ +-a^x (when the +,-,a is not necessary a>0 and a belongs to N*)
+ ~ +a^x (when the +,-,a is not necessary a>0 and a belongs to N*)
  <br>
  ~!!!Use the + or - a or none of them!!!
 
