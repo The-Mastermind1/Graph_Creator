@@ -158,12 +158,12 @@ int main() {
    <div class="cloud">
         <p>This is what you can use:
             <ol>
-                <li>+-ax^n (when the +,-,a is not necessary)</li>
-                <li>+-ae^n (when the +,-,a is not necessary n>0)</li>
-                <li>+-alog(n*x) (when the +,-,a is not necessary)</li>
-                <li>+-asin(n*x) (when the +,-,a is not necessary)</li>
-                <li>+-acos(n*x) (when the +,-,a is not necessary)</li>
-                <li>+-a^x (when the +,-,a is not necessary a>0)</li>
+                <li>+-ax^n (when the +,-,a is not necessary and a ∈ Z*)</li>
+                <li>+-ae^n (when the +,-,a is not necessary n>0 and a ∈ Z*)</li>
+                <li>+-alog(n*x) (when the +,-,a is not necessary and a ∈ Z*)</li>
+                <li>+-asin(n*x) (when the +,-,a is not necessary and a ∈ Z*)</li>
+                <li>+-acos(n*x) (when the +,-,a is not necessary and a ∈ Z*)</li>
+                <li>+-a^x (when the +,-,a is not necessary a>0 and a ∈ Z*)</li>
             </ol>
             <p id="warning">!!!Use the + or - a or none of them!!!</p>
         </p>
