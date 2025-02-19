@@ -1,12 +1,19 @@
 # Graph_Creator:
 
  This program creates a website in a local server and takes an input function following these rules:
- ~<br>
- ~<br>
- ~<br>
- ~<br>
- ~<br>
- ~<br>
+ ~ +-ax^n (when the +,-,a is not necessary a!=0 and a ∈ Z)
+ br>
+ ~ +-ae^n (when the +,-,a is not necessary n>0 and a ∈ Z)
+ <br>
+ ~ +-alog(n*x) (when the +,-,a is not necessary and a ∈ Z)
+ <br>
+ ~ +-asin(n*x) (when the +,-,a is not necessary and a ∈ Z)
+ <br>
+ ~ +-acos(n*x) (when the +,-,a is not necessary and a ∈ Z)
+ <br>
+ ~ +-a^x (when the +,-,a is not necessary a>0 and a ∈ Z)
+ <br>
+ ~!!!Use the + or - a or none of them!!!
 
  and the user a 2D graph that represents the function he gave. 
 
