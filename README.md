@@ -13,7 +13,7 @@
  <br>
  ~ -+a^x (when the +,-,a is not necessary a>0 and a belongs to N*)
  <br>
- ~!!!Use the + or - a or none of them!!!
+ <u>!!!Use the + or - a or none of them!!!</u>
 
  and the user a 2D graph that represents the function he gave. 
 
