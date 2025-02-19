@@ -1,12 +1,12 @@
 # Graph_Creator:
 
  This program creates a website in a local server and takes an input function following these rules:
- ~
- ~
- ~
- ~
- ~
- ~
+ ~<br>
+ ~<br>
+ ~<br>
+ ~<br>
+ ~<br>
+ ~<br>
 
  and the user a 2D graph that represents the function he gave. 
 
