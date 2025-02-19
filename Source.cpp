@@ -158,10 +158,10 @@ int main() {
    <div class="cloud">
         <p>This is what you can use:
             <ol>
-                <li>+-ax^n (when the +,-,a is not necessary and a belongs to Z*)</li>
+                <li>+-ax^n (when the +,-,a is not necessary and a belongs to Z*  )</li>
                 <li>+-ae^n (when the +,-,a is not necessary n>0 and a belongs to Z*)</li>
                 <li>+-alog(n*x) (when the +,-,a is not necessary and a belongs to Z*)</li>
-                <li>+-asin(n*x) (when the +,-,a is not necessary and a belongs to Z*)</li>
+                <li>+-asin(n*x) (when the +,-,a is not necessary and a belongs to Z* )</li>
                 <li>+-acos(n*x) (when the +,-,a is not necessary and a belongs to Z*)</li>
                 <li>+a^x (when the +,a is not necessary a>0 and a belongs to N*)</li>
             </ol>
