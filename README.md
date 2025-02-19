@@ -1,23 +1,23 @@
 # Graph_Creator:
 
- This program creates a website in a local server and takes an input function following these rules:<br>
- ~ +-ax^n (when the +,-,a is not necessary a!=0 and a belongs to Z*)
- br>
- ~ +-ae^n (when the +,-,a is not necessary n>0 and a belongs to Z*)
- <br>
- ~ +-alog(n*x) (when the +,-,a is not necessary and α belongs to Z*)
- <br>
- ~ +-asin(n*x) (when the +,-,a is not necessary and a belongs to Z*)
- <br>
- ~ +-acos(n*x) (when the +,-,a is not necessary and a belongs to Z*)
- <br>
- ~ -+a^x (when the +,-,a is not necessary a>0 and a belongs to N*)
- <br>
+This program creates a website in a local server and takes an input function following these rules:<br>
+~ +-ax^n (when the +,-,a is not necessary a!=0 and a belongs to Z*)
+<br>
+~ +-ae^n (when the +,-,a is not necessary n>0 and a belongs to Z*)
+<br>
+~ +-alog(n*x) (when the +,-,a is not necessary and α belongs to Z*)
+<br>
+~ +-asin(n*x) (when the +,-,a is not necessary and a belongs to Z*) 
+<br>
+~ +-acos(n*x) (when the +,-,a is not necessary and a belongs to Z*)
+<br>
+~ -+a^x (when the +,-,a is not necessary a>0 and a belongs to N*)
+<br>
 
- --
- !!!Use the + or - a or none of them!!!
 --
- and the user a 2D graph that represents the function he gave. 
+!!!Use the + or - a or none of them!!!
+--
+and the user a 2D graph that represents the function he gave. 
 
 # SFML:
 
