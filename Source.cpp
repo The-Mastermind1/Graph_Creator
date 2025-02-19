@@ -163,7 +163,7 @@ int main() {
                 <li>+-alog(n*x) (when the +,-,a is not necessary and a belongs to Z*)</li>
                 <li>+-asin(n*x) (when the +,-,a is not necessary and a belongs to Z*)</li>
                 <li>+-acos(n*x) (when the +,-,a is not necessary and a belongs to Z*)</li>
-                <li>+-a^x (when the +,-,a is not necessary a>0 and a belongs to N*)</li>
+                <li>+a^x (when the +,-,a is not necessary a>0 and a belongs to N*)</li>
             </ol>
             <p id="warning">!!!Use the + or - a or none of them!!!</p>
         </p>
