@@ -415,7 +415,8 @@ inline void  parse_graph(const std::string& input, sf::RenderTexture& rendertext
 
     for (std::sregex_iterator it = begin6; it != end; it++) {
         match = *it;
-        kati = match.str();//ncos(ax)
+       
+        kati = match.str();//a^x
         try {
 
             term.emplace_back<Term6>({ std::stof(kati) });
@@ -441,5 +442,4 @@ inline void  parse_graph(const std::string& input, sf::RenderTexture& rendertext
 }
 
 _P_S_END
-
 
