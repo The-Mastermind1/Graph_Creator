@@ -8,7 +8,7 @@
 #include<variant>
 #include<utility>
 #include<iterator>
-
+#include<string_view>
 
 
 
@@ -117,10 +117,10 @@ inline void draw_the_graph(std::vector<Terms>& terms, sf::RenderTexture& rendert
         float offsetx = 400;
         float offsety = 300;
         sf::VertexArray axes(sf::Lines, 4);
-        axes[0].position = sf::Vector2f(0, offsety); // Άξονας X
-        axes[1].position = sf::Vector2f(800, offsety);//και τα δυο
-        axes[2].position = sf::Vector2f(offsetx, 0); // Άξονας Y
-        axes[3].position = sf::Vector2f(offsetx, 600);//και τα δυο 
+        axes[0].position = sf::Vector2f(0, offsety); // Ξ†ΞΎΞΏΞ½Ξ±Ο‚ X
+        axes[1].position = sf::Vector2f(800, offsety);//ΞΊΞ±ΞΉ Ο„Ξ± Ξ΄Ο…ΞΏ
+        axes[2].position = sf::Vector2f(offsetx, 0); // Ξ†ΞΎΞΏΞ½Ξ±Ο‚ Y
+        axes[3].position = sf::Vector2f(offsetx, 600);//ΞΊΞ±ΞΉ Ο„Ξ± Ξ΄Ο…ΞΏ 
 
         for (int i = 0; i < 4; ++i) {
             axes[i].color = sf::Color::Blue;
@@ -390,9 +390,14 @@ inline void  parse_graph(const std::string& input, sf::RenderTexture& rendertext
     for (std::sregex_iterator it = begin6; it != end; it++) {
          match = *it;
          kati= match.str() ;//ncos(ax)
-         
-       
-         term.emplace_back<Term6>({std::stof(kati)});
+         try {
+
+             term.emplace_back<Term6>({ std::stof(kati) });
+         }
+         catch (...) {
+             throw _INVALID_INPUT{ "Invalid Input" };
+         }
+
 
 
     }
