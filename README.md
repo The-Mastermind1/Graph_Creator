@@ -15,7 +15,7 @@ This program creates a website in a local server and takes an input function fol
 <br>
 
 
-~🆘Use the + or - a or none of them🆘
+# 🆘Use the + or - a or none of them🆘
 <br>
 
 
