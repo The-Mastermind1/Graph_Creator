@@ -115,13 +115,20 @@ int main() {
             background-color: #2980b9;
             transform: translateY(-3px);
         }
-
+            #warning {
+            color: #cc0000;
+            font-weight: bold;
+            font-size: 1.1em;
+            text-align: center;
+            margin-top: 15px;
+        }
         /* Responsive design */
         @media (max-width: 600px) {
             .cloud {
                 width: 90%;
                 padding: 20px;
             }
+            
 
             .arithmoi {
                 width: 100%;
@@ -145,12 +152,20 @@ int main() {
        <input type="text" class="arithmoi"  name="function" placeholder="Enter Function">
        <button type="submit">Submit</button>
     </form>
+    <br>
+    <br>
 
-    <div class="cloud">
+   <div class="cloud">
         <p>This is what you can use:
             <ol>
                 <li>+-ax^n (when the +,-,a is not necessary)</li>
+                <li>+-ae^n (when the +,-,a is not necessary n>0)</li>
+                <li>+-alog(n*x) (when the +,-,a is not necessary)</li>
+                <li>+-asin(n*x) (when the +,-,a is not necessary)</li>
+                <li>+-acos(n*x) (when the +,-,a is not necessary)</li>
+                <li>+-a^x (when the +,-,a is not necessary a>0)</li>
             </ol>
+            <p id="warning">!!!Use the + or - a or none of them!!!</p>
         </p>
     </div>
 
