@@ -14,8 +14,6 @@ This program creates a website in a local server and takes an input function fol
 ~ -+a^x (when the +,-,a is not necessary a>0 and a belongs to N*)
 <br>
 
-<span style="color:red">Κόκκινο κείμενο</span>
-
 
 ~!!!Use the + or - a or none of them!!!<br>
 
