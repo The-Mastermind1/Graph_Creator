@@ -41,9 +41,9 @@ and add HTML AND CSS ELEMENTS to make this seem more like a website or an applic
 
 ~If the input is wrong the user sees the appropriate message 
 
-#  Dependencies
 
-# CONTRIBUTORS:
+
+# 👥CONTRIBUTORS:
 
 ~The-Mastermind1
 ~Mpoumpoulianos
