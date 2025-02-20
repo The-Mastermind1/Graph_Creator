@@ -19,7 +19,7 @@ This program creates a website in a local server and takes an input function fol
 <br>
 
 
-and the user a 2D graph that represents the function he gave. 
+and gives to the user a 2D graph that represents the function he gave. 
 
 # SFML:
 
