@@ -25,7 +25,7 @@ and the user a 2D graph that represents the function he gave.
 
 It uses the extension library sfml to create the graph 
 
-# 📦HTTPLIB:
+# 📦 Dependencies:
 
 SFML 🖊
 Used for graph visualization.
