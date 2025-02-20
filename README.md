@@ -33,7 +33,7 @@ Used for graph visualization.<br>
 
 cpp-httplib 🌐<br>
 Used to create and maintain the local server.<br>
-🔗 cpp-httplib MIT License
+🔗 https://github.com/yhirose/cpp-httplib/blob/master/LICENSE
 
 It uses the extension library cpp-httplib to  create and mantain the server 
 
