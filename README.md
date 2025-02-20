@@ -25,6 +25,10 @@ and the user a 2D graph that represents the function he gave.
 
 It uses the extension library sfml to create the graph 
 
+# CPP-HTTPLIB
+
+It uses the extension library to create a webstite with html elements and a server with .and also react with this web page. 
+
 # 📦 Dependencies:
 
 SFML 🖊<br>
@@ -48,6 +52,5 @@ and add HTML AND CSS ELEMENTS to make this seem more like a website or an applic
 ~The-Mastermind1
 ~Mpoumpoulianos
 
-# THANK YOU 
-# FOR READING
-# THIS
+#🙏 Thank You for Reading!
+#We appreciate your interest in our project! 🚀
