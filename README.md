@@ -27,7 +27,11 @@ It uses the extension library sfml to create the graph
 
 # CPP-HTTPLIB
 
-It uses the extension library to create a webstite with html elements and a server with .and also react with this web page. 
+It uses the extension library cpp-httplib to  create and mantain the server 
+
+and add HTML AND CSS ELEMENTS to make this seem more like a website or an application 
+
+~If the input is wrong the user sees the appropriate message 
 
 # 📦 Dependencies:
 
@@ -38,12 +42,6 @@ Used for graph visualization.<br>
 cpp-httplib 🌐<br>
 Used to create and maintain the local server.<br>
 🔗 cpp-httplib MIT License: https://github.com/yhirose/cpp-httplib/blob/master/LICENSE
-
-It uses the extension library cpp-httplib to  create and mantain the server 
-
-and add HTML AND CSS ELEMENTS to make this seem more like a website or an application 
-
-~If the input is wrong the user sees the appropriate message 
 
 
 
