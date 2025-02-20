@@ -1,7 +1,7 @@
 # Graph_Creator:
 
 This program creates a website in a local server and takes an input function following these rules:<br>
-~ +-ax^n (when the +,-,a is not necessary a!=0 and a belongs to Z*)
+~ +-ax^n (when the +,-,a is not necessary a!=0 and a belongs to Z AND Z!=0)
 <br>
 ~ +-ae^n (when the +,-,a is not necessary n>0 and a belongs to Z AND Z!=0)
 <br>
