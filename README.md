@@ -52,5 +52,5 @@ and add HTML AND CSS ELEMENTS to make this seem more like a website or an applic
 ~The-Mastermind1
 ~Mpoumpoulianos
 
-#🙏 Thank You for Reading!
-#We appreciate your interest in our project! 🚀
+# 🙏 Thank You for Reading!
+# We appreciate your interest in our project! 🚀
