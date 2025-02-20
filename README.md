@@ -5,13 +5,13 @@ This program creates a website in a local server and takes an input function fol
 <br>
 ~ +-ae^n (when the +,-,a is not necessary n>0 and a belongs to Z*)
 <br>
-~ +-alog(n*x) (when the +,-,a is not necessary and α belongs to Z*)
+~ +-alog(n*x) (when the +,-,a is not necessary and α belongs to Z *)
 <br>
-~ +-asin(n*x) (when the +,-,a is not necessary and a belongs to Z*) 
+~ +-asin(n*x) (when the +,-,a is not necessary and a belongs to Z *) 
 <br>
-~ +-acos(n*x) (when the +,-,a is not necessary and a belongs to Z*)
+~ +-acos(n*x) (when the +,-,a is not necessary and a belongs to Z *)
 <br>
-~ -+a^x (when the +,-,a is not necessary a>0 and a belongs to N*)
+~ -+a^x (when the +,-,a is not necessary a>0 and a belongs to N *)
 <br>
 
 
