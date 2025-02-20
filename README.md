@@ -27,11 +27,11 @@ It uses the extension library sfml to create the graph
 
 # 📦 Dependencies:
 
-SFML 🖊
+SFML 🖊<br>
 Used for graph visualization.
 🔗 SFML License
 
-cpp-httplib 🌐
+cpp-httplib 🌐<br>
 Used to create and maintain the local server.
 🔗 cpp-httplib MIT License
 
