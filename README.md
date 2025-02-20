@@ -29,11 +29,11 @@ It uses the extension library sfml to create the graph
 
 SFML 🖊<br>
 Used for graph visualization.<br>
-🔗 https://www.sfml-dev.org/license.php
+🔗 SFML License: https://www.sfml-dev.org/license.php
 
 cpp-httplib 🌐<br>
 Used to create and maintain the local server.<br>
-🔗 https://github.com/yhirose/cpp-httplib/blob/master/LICENSE
+🔗 cpp-httplib MIT License: https://github.com/yhirose/cpp-httplib/blob/master/LICENSE
 
 It uses the extension library cpp-httplib to  create and mantain the server 
 
