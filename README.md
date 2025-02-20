@@ -25,13 +25,23 @@ and the user a 2D graph that represents the function he gave.
 
 It uses the extension library sfml to create the graph 
 
-# HTTPLIB:
+# 📦HTTPLIB:
+
+SFML 🖊
+Used for graph visualization.
+🔗 SFML License
+
+cpp-httplib 🌐
+Used to create and maintain the local server.
+🔗 cpp-httplib MIT License
 
 It uses the extension library cpp-httplib to  create and mantain the server 
 
 and add HTML AND CSS ELEMENTS to make this seem more like a website or an application 
 
 ~If the input is wrong the user sees the appropriate message 
+
+#  Dependencies
 
 # CONTRIBUTORS:
 
