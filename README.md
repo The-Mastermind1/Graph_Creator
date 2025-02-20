@@ -3,15 +3,15 @@
 This program creates a website in a local server and takes an input function following these rules:<br>
 ~ +-ax^n (when the +,-,a is not necessary a!=0 and a belongs to Z*)
 <br>
-~ +-ae^n (when the +,-,a is not necessary n>0 and a belongs to Z*)
+~ +-ae^n (when the +,-,a is not necessary n>0 and a belongs to Z AND Z!=0)
 <br>
-~ +-alog(n*x) (when the +,-,a is not necessary and α belongs to Z *)
+~ +-alog(n*x) (when the +,-,a is not necessary and α belongs to Z AND Z!=0)
 <br>
-~ +-asin(n*x) (when the +,-,a is not necessary and a belongs to Z *) 
+~ +-asin(n*x) (when the +,-,a is not necessary and a belongs to Z AND Z!=0) 
 <br>
-~ +-acos(n*x) (when the +,-,a is not necessary and a belongs to Z *)
+~ +-acos(n*x) (when the +,-,a is not necessary and a belongs to Z AND Z!=0)
 <br>
-~ -+a^x (when the +,-,a is not necessary a>0 and a belongs to N *)
+~ -+a^x (when the +,-,a is not necessary a>0 and a belongs to N AND N!=0)
 <br>
 
 
