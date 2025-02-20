@@ -47,7 +47,7 @@ Used to create and maintain the local server.<br>
 
 # 👥CONTRIBUTORS:
 
-~The-Mastermind1
+~The-Mastermind1<br>
 ~Mpoumpoulianos
 
 # 🙏 Thank You for Reading!
